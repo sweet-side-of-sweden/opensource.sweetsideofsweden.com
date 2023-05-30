@@ -1,8 +1,8 @@
 ---
 title: "react-tender"
-#image: # TODO
 excerpt_separator: "<!--more-->"
 license: "mit"
+author: "filiph" # TODO: custom project layout
 tags:
   - react.js
   - components
